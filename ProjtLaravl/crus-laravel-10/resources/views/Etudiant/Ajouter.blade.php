@@ -133,10 +133,8 @@
 
             <!-- Side Text -->
             <div class="text-white">
-                <p class="text-sm opacity-70 mb-3">by jobscome</p>
                 <h2 class="text-5xl font-bold leading-tight mb-2">Ajouter un</h2>
                 <h2 class="text-5xl font-bold leading-tight mb-4">étudiant</h2>
-                <p class="text-sm opacity-70">Design inspiration</p>
             </div>
         </div>
     </div>
